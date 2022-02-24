@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #9aa5b1;
+    font-weight: bold;
+    border-style: solid;
+    border-color: #4b6cc1;
+    border-width: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#navItem1 {
+    font-family: "Roboto";
+    color: white;
+}
+
+#navItem2 {
+    font-family: "Roboto";
+    color: white;
+}
+
+#navItem3 {
+    font-family: "Roboto";
+    color: white;
+}
+
+#navItem4 {
+    font-family: "Roboto";
+    color: white;
+}
+
+#navItem5 {
+    font-family: "Roboto";
+    color: white;
+}
+
+.portfolio-website-bg-section {
+    background-color: #191a1d;
+    height: 100vh;
+
+}
+
+.portfolio-website-bg-section-image {
+    width: 270px;
+    border-radius: 130px;
+    margin-bottom: 10px;
+}
+
+.portfolio-website-heading {
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+}
+
+.name {
+    color: #4b6cc1;
+}
+
+.portfolio-website-description {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+    color: #9aa5b1;
+}
+
+.portfolio-website-button {
+    height: 45px;
+    width: 100px;
+    background-color: #4b6cc1;
+    color: white;
+    border-radius: 8px;
+    border-width: 0px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.project-heading {
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.project-description {
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.project-sub-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
